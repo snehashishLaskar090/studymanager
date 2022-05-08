@@ -1,0 +1,20 @@
+[
+ {
+  "name": "Exercise 1",
+  "tag": "Maths",
+  "deadline": "5 th May",
+  "importance": "veryimportant"
+ },
+ {
+  "name": "FUck",
+  "tag": "FUck",
+  "deadline": "Fuck",
+  "importance": "Fuck"
+ },
+ {
+  "name": "FUck",
+  "tag": "FUck",
+  "deadline": "Fuck",
+  "importance": "Fuck"
+ }
+]
